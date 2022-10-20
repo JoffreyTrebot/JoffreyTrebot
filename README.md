@@ -17,7 +17,7 @@
 
 ## Github Stats
 
-[![Joffrey' Github Stats](https://github-readme-stats.vercel.app/api?username=JoffreyTrebot&count_private=true&theme=default&show_icons=true)](https://github.com/JoffreyTrebot)
+[![Joffrey' Github Stats](https://github-readme-stats.vercel.app/api?username=JoffreyTrebot&count_private=true&theme=tokyonight&show_icons=true&hide=contribs,prs,issues)](https://github.com/JoffreyTrebot)
 
 <div align="center">
 
